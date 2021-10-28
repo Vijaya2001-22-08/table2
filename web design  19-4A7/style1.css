@@ -1,0 +1,37 @@
+.cardbody{
+    border:2px solid black;
+    padding:1px;
+    margin:2%;
+    background-color:wheat;
+    font-size:20px;
+    width:auto;
+}
+ s{
+     color:crimson;
+     width: auto;
+ }
+ p{
+     color:darkgreen;
+     width: auto;
+ }
+ u,h2{
+     color:darkviolet;
+ }
+ button{
+     color:gold;
+     background-color: yellowgreen;
+     padding:2px;
+     margin:1%
+    }
+    img{
+        height: 10%;
+    }
+ .card{
+     display:flex;
+     flex-direction:row;
+     }
+ .cardbody img{
+     width:auto;
+     height:50%;
+ }
+     
